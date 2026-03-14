@@ -20,8 +20,6 @@ The system tracks usage data and displays analytics through a responsive user in
 ### Frontend
 - React
 - TypeScript
-- HTML
-- CSS
 
 ### Backend
 - Java
