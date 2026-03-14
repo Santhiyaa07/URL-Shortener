@@ -9,6 +9,12 @@ The system tracks usage data and displays analytics through a responsive user in
 
 ---
 
+## Screenshots
+![Table Image](https://github.com/Santhiyaa07/URL-Shortener/blob/33a91b8286fe2ca7baf11be6a9fe064202ae110e/Images/SS1.png)
+![Chart Image](https://github.com/Santhiyaa07/URL-Shortener/blob/33a91b8286fe2ca7baf11be6a9fe064202ae110e/Images/SS2.png)
+![Postman Testing Image](https://github.com/Santhiyaa07/URL-Shortener/blob/33a91b8286fe2ca7baf11be6a9fe064202ae110e/Images/Postman%20SS.png)
+
+
 ## Tech Stack
 
 ### Frontend
