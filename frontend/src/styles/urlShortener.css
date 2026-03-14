@@ -1,0 +1,57 @@
+.banner {
+  background-color: #2f5c97;
+  padding: 40px 0;
+  color: white;
+}
+
+.banner h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+/* form width controls spacing from edges */
+.url-form {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+}
+
+/* input takes most width */
+.url-form input {
+  flex: 1;
+  padding: 14px;
+  border: none;
+  border-radius: 3px 0 0 3px;
+  font-size: 14px;
+}
+
+/* button attached to input */
+.url-form button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 14px 20px;
+  border: none;
+  background-color: #4da3ff;
+  color: white;
+  cursor: pointer;
+  border-radius: 0 3px 3px 0;
+  font-size: 14px;
+}
+
+.url-form button:hover {
+  background-color: #3c8be0;
+}
+
+/* icon spacing */
+.btn-icon {
+  font-size: 14px;
+}
+
+.helper {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 12px;
+  color: #ddd;
+}
